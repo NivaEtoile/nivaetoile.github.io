@@ -43,11 +43,11 @@
   /* Avatar Settings */
   --hokaze-as: 100px;   /* Avatar Size: One Value = Square, Two Values = Rectangle */
   --hokaze-ap: 50% 20%; /* Inner Avatar Position */
-  --hokaze-ai: 150%;
+  --hokaze-ai: 100%;
   --hokaze-ab: 5px;   /* Avatar Border Thickness */
   --hokaze-ar: 255px;  /* Avatar Border Radius */
   --hokaze-at: all 1s ease-in-out; /* Avatar Hover Transition */
-  --hokaze-av: url("https://i.imgur.com/w6WVzJH.png"); /* Avatar Picture Link */
+  --hokaze-av: url("https://i.imgur.com/cwN0EWx.png"); /* Avatar Picture Link */
   --hokaze-ah: 1.1; /* Avatar Hover Scale */
   
   /* Quick Maths - !DON'T TOUCH! */
@@ -103,7 +103,7 @@ Dark Theme
 /* Code */
 /* Body */
 body {
-    background-image: url("https://i.imgur.com/eoMtR7h.jpg");
+    background-image: url("https://i.imgur.com/Echpf21.jpeg");
     background-position: 50% 50%;
     background-size: 100%;
     background-repeat: no-repeat;
