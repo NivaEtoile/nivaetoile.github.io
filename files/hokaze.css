@@ -103,11 +103,7 @@ Dark Theme
 /* Code */
 /* Body */
 body {
-    background-image: url("https://i.imgur.com/Echpf21.jpeg");
-    background-position: 50% 50%;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+  
 }
 /* Header */
 #nav {
