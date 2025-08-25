@@ -111,7 +111,7 @@ body {
 }
 /* Header */
 #nav {
-  background: rgb(var(--color-background)) !important;
+  background: rgb(var(--color-foreground)) !important;
   color: rgb(var(--color-text-light)) !important;
   border-radius: var(--hokaze-nbr);
   left: var(--hokaze-nbl);
