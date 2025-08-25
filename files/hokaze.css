@@ -103,11 +103,15 @@ Dark Theme
 /* Code */
 /* Body */
 body {
-  
+    background-image: url("https://i.imgur.com/Echpf21.jpeg");
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 /* Header */
 #nav {
-  background: rgb(var(--color-foreground)) !important;
+  background: linear-gradient(rgb(var(--color-background),0.8),rgb(var(--color-background),0.8)) !important;
   color: rgb(var(--color-text-light)) !important;
   border-radius: var(--hokaze-nbr);
   left: var(--hokaze-nbl);
