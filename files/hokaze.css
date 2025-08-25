@@ -111,7 +111,7 @@ body {
 }
 /* Header */
 #nav {
-  background: linear-gradient(rgb(var(--color-background),0.8),rgb(var(--color-background),0.8)) !important;
+  background: rgb(var(--color-background),0.8) !important;
   color: rgb(var(--color-text-light)) !important;
   border-radius: var(--hokaze-nbr);
   left: var(--hokaze-nbl);
